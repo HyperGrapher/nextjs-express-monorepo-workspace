@@ -21,6 +21,11 @@ app.use(helmet()) // Adds recomended response headers for additional security.
 app.use(ROUTES.blog, blogRoutes)
 
 // Root endpoint
+app.get('/', (req: Request, res: Response<any>) => {
+	return successResponse(res)
+})
+
+// Client endpoint
 app.get('/express', (req: Request, res: Response<any>) => {
 	return res.json({message: 'Hi from express server running on port 8080!'})
 })
