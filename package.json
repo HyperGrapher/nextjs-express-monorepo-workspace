@@ -1,0 +1,20 @@
+{
+  "name": "next-node-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Burak Mestan",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "start": "concurrently \"yarn workspace server dev\" \"yarn workspace client dev\"",
+    "postinstall": "prisma generate"
+  },
+  "devDependencies": {
+    "concurrently": "^7.5.0",
+    "wsrun": "^5.2.4"
+  }
+}
