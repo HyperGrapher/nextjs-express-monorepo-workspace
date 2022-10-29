@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "yarn"
+  - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
@@ -13,4 +13,4 @@ updates:
       timezone: "Turkey"
     commit-message:
       # Prefix all commit messages with ".."
-      prefix: "yarn-package"
+      prefix: "npm-package"
