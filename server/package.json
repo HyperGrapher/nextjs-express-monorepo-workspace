@@ -38,7 +38,7 @@
     "@types/lodash": "^4.14.182",
     "@types/node": "^18.11.8",
     "@types/request-ip": "^0.0.37",
-    "@typescript-eslint/eslint-plugin": "^5.41.0",
+    "@typescript-eslint/eslint-plugin": "^5.42.0",
     "@typescript-eslint/parser": "^5.42.0",
     "eslint": "^8.21.0",
     "ts-node-dev": "^2.0.0",
