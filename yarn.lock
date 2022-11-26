@@ -260,10 +260,10 @@
     "@tanstack/query-core" "4.15.1"
     use-sync-external-store "^1.2.0"
 
-"@trpc/client@10.0.0-rc.2":
-  version "10.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.0.0-rc.2.tgz#b85a6e66fee7e446ba72f8767df6b49cd012f4e1"
-  integrity sha512-8GIehvg7QAdD9cSv++PrBnLQYXngTW0dIayNJPCYoaaUVAGew9/bJppYYXd17UQBNyVY+fAK0Q55E6HUYnYz2w==
+"@trpc/client@10.2.0":
+  version "10.2.0"
+  resolved "https://registry.yarnpkg.com/@trpc/client/-/client-10.2.0.tgz#310752768c7d2a1129a91689b233a62bcf87762e"
+  integrity sha512-Mehf6euqMzAak+Umay1LKol9nC716yBjHNqrF6blWY/n2hwSICrLXQwveNaHK7qjKXJ86b4aDW39KR02WCQP4A==
 
 "@trpc/next@10.0.0-proxy-beta.17":
   version "10.0.0-proxy-beta.17"
