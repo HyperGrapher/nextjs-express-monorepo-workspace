@@ -275,10 +275,10 @@
   resolved "https://registry.yarnpkg.com/@trpc/react/-/react-10.0.0-proxy-beta.20.tgz#985422b5a5b5ad2c280fa23ccb1714379f29538c"
   integrity sha512-axuy3Nf71j6vVQFhc7ATSOW4gMTL92RSMTA0p93dNoNQpKqADGjjB1bFUqAmCeAjy441s+h9tqhj3g14sQ/NmA==
 
-"@trpc/server@10.2.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.2.0.tgz#7716329ab9de742c0d604bc48759e4d1f1434225"
-  integrity sha512-WGOA2bk6JOnOywUu1gkAgwqnxZ5g+vNkL9EpCGLgKYwwMcjAwgNRgYzLPsDsR1XL48wmdYOzfWzJ0G575+g/jA==
+"@trpc/server@10.4.1":
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-10.4.1.tgz#c67eb884d27d2c1c8bbce4cf9ad37abb6cea4ddf"
+  integrity sha512-GsG6jYDDt3OORn/HrrPPLIZB99nFDGbp6iIUitWq29XoRtwoRQSgEasPwfq7SbGY2MJG4ea2C2ZfY5nFoiUaPA==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
